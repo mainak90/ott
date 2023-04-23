@@ -1,4 +1,6 @@
 # OTT: Opentelemetry Tracing Utilities
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/mainak90/ott)](https://pkg.go.dev/github.com/mainak90/ott)
+
 Golang provider library that provides tracers for auto instrumentation of tracing providers based on services using http handlers/routers.
 
 ## Providers
