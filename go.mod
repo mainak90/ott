@@ -1,4 +1,4 @@
-module github.com/mainak90/TelemetryUtils
+module github.com/mainak90/ott
 
 go 1.17
 

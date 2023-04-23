@@ -52,4 +52,4 @@ traceID, spanID, _ := tl.ExtractTraceInfo(r.Context())
 ```
 
 ## License
-Uses the MIT license. Please check out [LICENSE.md](./LICENSE.md) for more details.
+Uses the MIT license. Please check out [LICENSE.md](./LICENSE.md) for more details. 
